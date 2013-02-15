@@ -9,7 +9,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <H1> Third Page</H2>
+        <H1> Third Page Master branch</H2>
         <?php
         // put your code here
         ?>
