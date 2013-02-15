@@ -1,3 +1,7 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
 <!DOCTYPE html>
 <html>
     <head>
@@ -5,10 +9,9 @@
         <title></title>
     </head>
     <body>
+        <H1> Third Page</H2>
         <?php
         // put your code here
-        phpinfo()
         ?>
-        <h1> Yee Gads It's here for a second time</h1>
     </body>
 </html>
